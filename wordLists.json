@@ -65,6 +65,23 @@
 				{ "id": 39, "word": "earl", "sentence": "The Earl lived in a big castle." },
 				{ "id": 40, "word": "rehearse", "sentence": "We will rehearse the play tomorrow." }
 			]
-		}
+		},
+		{
+  "week": 5,
+  "group": "tion words",
+  "words": [
+    { "id": 41, "word": "action", "sentence": "The movie was full of action." },
+    { "id": 42, "word": "station", "sentence": "We waited at the train station." },
+    { "id": 43, "word": "nation", "sentence": "We live in a peaceful nation." },
+    { "id": 44, "word": "vacation", "sentence": "Our family went on vacation." },
+    { "id": 45, "word": "solution", "sentence": "She found a solution to the puzzle." },
+    { "id": 46, "word": "invitation", "sentence": "I received an invitation to the party." },
+    { "id": 47, "word": "celebration", "sentence": "We had a celebration for her birthday." },
+    { "id": 48, "word": "emotion", "sentence": "The movie stirred a lot of emotion." },
+    { "id": 49, "word": "education", "sentence": "Education is important for everyone." },
+    { "id": 50, "word": "position", "sentence": "He took his position on the team." }
+  ]
+}
 	]
 }
+
