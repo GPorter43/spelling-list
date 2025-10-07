@@ -1,72 +1,270 @@
 {
-	"year": "Year 3",
-	"class": "Mice",
-	"weeks": [
-		{
-			"week": 1,
-			"group": "eigh/ei words",
-			"words": [
-				{ "id": 1, "word": "eight", "sentence": "I have eight pencils in my bag." },
-				{ "id": 2, "word": "eighth", "sentence": "She finished in eighth place." },
-				{ "id": 3, "word": "eighty", "sentence": "There are eighty pages in this book." },
-				{ "id": 4, "word": "weight", "sentence": "The box was heavy in weight." },
-				{ "id": 5, "word": "neighbour", "sentence": "Our neighbour is very kind." },
-				{ "id": 6, "word": "vein", "sentence": "The nurse found the vein easily." },
-				{ "id": 7, "word": "veil", "sentence": "The bride wore a white veil." },
-				{ "id": 8, "word": "beige", "sentence": "The sofa was a light beige colour." },
-				{ "id": 9, "word": "sleigh", "sentence": "The horse pulled the sleigh." },
-				{ "id": 10, "word": "freight", "sentence": "The train carried freight across the country." }
-			]
-		},
-		{
-			"week": 2,
-			"group": "ey/ay words",
-			"words": [
-				{ "id": 11, "word": "hey", "sentence": "Hey, how are you today?" },
-				{ "id": 12, "word": "they", "sentence": "They are going to the park." },
-				{ "id": 13, "word": "obey", "sentence": "You must obey the rules." },
-				{ "id": 14, "word": "grey", "sentence": "The sky was grey with clouds." },
-				{ "id": 15, "word": "prey", "sentence": "The lion chased its prey." },
-				{ "id": 16, "word": "whey", "sentence": "She added whey protein to her shake." },
-				{ "id": 17, "word": "survey", "sentence": "We took part in a school survey." },
-				{ "id": 18, "word": "convey", "sentence": "Please convey my thanks to her." },
-				{ "id": 19, "word": "disobey", "sentence": "It is wrong to disobey your parents." },
-				{ "id": 20, "word": "purvey", "sentence": "They purvey fresh fruit at the market." }
-			]
-		},
-		{
-			"week": 3,
-			"group": "ai/ay words",
-			"words": [
-				{ "id": 21, "word": "straight", "sentence": "Draw a straight line." },
-				{ "id": 22, "word": "campaign", "sentence": "The campaign raised money for charity." },
-				{ "id": 23, "word": "contain", "sentence": "The box will contain toys." },
-				{ "id": 24, "word": "brain", "sentence": "The brain controls the body." },
-				{ "id": 25, "word": "faint", "sentence": "She felt faint after running." },
-				{ "id": 26, "word": "waist", "sentence": "He tied the belt around his waist." },
-				{ "id": 27, "word": "claim", "sentence": "I need to claim my prize." },
-				{ "id": 28, "word": "praise", "sentence": "The teacher gave her praise." },
-				{ "id": 29, "word": "complaint", "sentence": "He made a complaint about the service." },
-				{ "id": 30, "word": "afraid", "sentence": "She was afraid of the dark." }
-			]
-		},
-		{
-			"week": 4,
-			"group": "ear/er words",
-			"words": [
-				{ "id": 31, "word": "earth", "sentence": "The earth goes around the sun." },
-				{ "id": 32, "word": "early", "sentence": "We arrived early to school." },
-				{ "id": 33, "word": "learn", "sentence": "I want to learn a new song." },
-				{ "id": 34, "word": "heard", "sentence": "I heard a loud noise outside." },
-				{ "id": 35, "word": "earn", "sentence": "She will earn a certificate for good work." },
-				{ "id": 36, "word": "pearl", "sentence": "The pearl was inside the shell." },
-				{ "id": 37, "word": "search", "sentence": "We had to search for the missing toy." },
-				{ "id": 38, "word": "unearth", "sentence": "They will unearth old fossils." },
-				{ "id": 39, "word": "earl", "sentence": "The Earl lived in a big castle." },
-				{ "id": 40, "word": "rehearse", "sentence": "We will rehearse the play tomorrow." }
-			]
-		}
-	]
+  "year": "Year 3",
+  "class": "Mice",
+  "weeks": [
+    {
+      "week": 1,
+      "group": "eigh/ei words",
+      "words": [
+        {
+          "id": 1,
+          "word": "eight",
+          "sentence": "I have eight pencils in my bag.",
+          "misspellings": ["eigth", "eightt", "aight"]
+        },
+        {
+          "id": 2,
+          "word": "eighth",
+          "sentence": "She finished in eighth place.",
+          "misspellings": ["eigths", "eigth", "eigeth"]
+        },
+        {
+          "id": 3,
+          "word": "eighty",
+          "sentence": "There are eighty pages in this book.",
+          "misspellings": ["eigthy", "eightty", "eity"]
+        },
+        {
+          "id": 4,
+          "word": "weight",
+          "sentence": "The box was heavy in weight.",
+          "misspellings": ["wieght", "weit", "weightt"]
+        },
+        {
+          "id": 5,
+          "word": "neighbour",
+          "sentence": "Our neighbour is very kind.",
+          "misspellings": ["neighbor", "neigbour", "neighour"]
+        },
+        {
+          "id": 6,
+          "word": "vein",
+          "sentence": "The nurse found the vein easily.",
+          "misspellings": ["vien", "vean", "veinn"]
+        },
+        {
+          "id": 7,
+          "word": "veil",
+          "sentence": "The bride wore a white veil.",
+          "misspellings": ["viel", "veill", "vale"]
+        },
+        {
+          "id": 8,
+          "word": "beige",
+          "sentence": "The sofa was a light beige colour.",
+          "misspellings": ["begie", "beije", "beig"]
+        },
+        {
+          "id": 9,
+          "word": "sleigh",
+          "sentence": "The horse pulled the sleigh.",
+          "misspellings": ["sliegh", "sleig", "sleighh"]
+        },
+        {
+          "id": 10,
+          "word": "freight",
+          "sentence": "The train carried freight across the country.",
+          "misspellings": ["frieght", "freit", "freightt"]
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "group": "ey words",
+      "words": [
+        {
+          "id": 11,
+          "word": "hey",
+          "sentence": "Hey, how are you today?",
+          "misspellings": ["hay", "hei", "heyy"]
+        },
+        {
+          "id": 12,
+          "word": "they",
+          "sentence": "They are going to the park.",
+          "misspellings": ["thay", "thei", "thaey"]
+        },
+        {
+          "id": 13,
+          "word": "obey",
+          "sentence": "You must obey the rules.",
+          "misspellings": ["obay", "obe", "obeyy"]
+        },
+        {
+          "id": 14,
+          "word": "grey",
+          "sentence": "The sky was grey with clouds.",
+          "misspellings": ["gray", "grie", "greyy"]
+        },
+        {
+          "id": 15,
+          "word": "prey",
+          "sentence": "The lion chased its prey.",
+          "misspellings": ["pray", "preyy", "prei"]
+        },
+        {
+          "id": 16,
+          "word": "whey",
+          "sentence": "She added whey protein to her shake.",
+          "misspellings": ["whay", "wey", "whe"]
+        },
+        {
+          "id": 17,
+          "word": "survey",
+          "sentence": "We took part in a school survey.",
+          "misspellings": ["survay", "servei", "survae"]
+        },
+        {
+          "id": 18,
+          "word": "convey",
+          "sentence": "Please convey my thanks to her.",
+          "misspellings": ["convy", "convay", "convei"]
+        },
+        {
+          "id": 19,
+          "word": "disobey",
+          "sentence": "It is wrong to disobey your parents.",
+          "misspellings": ["disobay", "disobe", "disobeyy"]
+        },
+        {
+          "id": 20,
+          "word": "purvey",
+          "sentence": "They purvey fresh fruit at the market.",
+          "misspellings": ["purvay", "purvei", "purvye"]
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "group": "ai words",
+      "words": [
+        {
+          "id": 21,
+          "word": "straight",
+          "sentence": "Draw a straight line.",
+          "misspellings": ["strait", "straigh", "straigt"]
+        },
+        {
+          "id": 22,
+          "word": "campaign",
+          "sentence": "The campaign raised money for charity.",
+          "misspellings": ["campain", "campagin", "compaign"]
+        },
+        {
+          "id": 23,
+          "word": "contain",
+          "sentence": "The box will contain toys.",
+          "misspellings": ["contian", "contane", "containn"]
+        },
+        {
+          "id": 24,
+          "word": "brain",
+          "sentence": "The brain controls the body.",
+          "misspellings": ["bran", "brian", "brainn"]
+        },
+        {
+          "id": 25,
+          "word": "faint",
+          "sentence": "She felt faint after running.",
+          "misspellings": ["faent", "fainte", "faintt"]
+        },
+        {
+          "id": 26,
+          "word": "waist",
+          "sentence": "He tied the belt around his waist.",
+          "misspellings": ["waste", "waistt", "waust"]
+        },
+        {
+          "id": 27,
+          "word": "claim",
+          "sentence": "I need to claim my prize.",
+          "misspellings": ["clame", "claime", "claimm"]
+        },
+        {
+          "id": 28,
+          "word": "praise",
+          "sentence": "The teacher gave her praise.",
+          "misspellings": ["praize", "prase", "praisee"]
+        },
+        {
+          "id": 29,
+          "word": "complaint",
+          "sentence": "He made a complaint about the service.",
+          "misspellings": ["complaent", "complait", "complaintt"]
+        },
+        {
+          "id": 30,
+          "word": "afraid",
+          "sentence": "She was afraid of the dark.",
+          "misspellings": ["afrade", "afreid", "afriad"]
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "group": "ear words",
+      "words": [
+        {
+          "id": 31,
+          "word": "earth",
+          "sentence": "The earth goes around the sun.",
+          "misspellings": ["erth", "earht", "eart"]
+        },
+        {
+          "id": 32,
+          "word": "early",
+          "sentence": "We arrived early to school.",
+          "misspellings": ["earley", "erly", "earlly"]
+        },
+        {
+          "id": 33,
+          "word": "learn",
+          "sentence": "I want to learn a new song.",
+          "misspellings": ["lern", "larn", "learnn"]
+        },
+        {
+          "id": 34,
+          "word": "heard",
+          "sentence": "I heard a loud noise outside.",
+          "misspellings": ["herd", "heared", "haerd"]
+        },
+        {
+          "id": 35,
+          "word": "earn",
+          "sentence": "She will earn a certificate for good work.",
+          "misspellings": ["ern", "earrn", "eearn"]
+        },
+        {
+          "id": 36,
+          "word": "pearl",
+          "sentence": "The pearl was inside the shell.",
+          "misspellings": ["peral", "peearl", "pearll"]
+        },
+        {
+          "id": 37,
+          "word": "search",
+          "sentence": "We had to search for the missing toy.",
+          "misspellings": ["serch", "surch", "seach"]
+        },
+        {
+          "id": 38,
+          "word": "unearth",
+          "sentence": "They will unearth old fossils.",
+          "misspellings": ["unerth", "unert", "unearthh"]
+        },
+        {
+          "id": 39,
+          "word": "earl",
+          "sentence": "The Earl lived in a big castle.",
+          "misspellings": ["erl", "earll", "earle"]
+        },
+        {
+          "id": 40,
+          "word": "rehearse",
+          "sentence": "We will rehearse the play tomorrow.",
+          "misspellings": ["rehurse", "reherse"]
+        }
+      ]
+    }
+  ]
 }
-
-
