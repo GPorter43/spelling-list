@@ -265,6 +265,72 @@
           "misspellings": ["rehurse", "reherse"]
         }
       ]
+    },
+    {
+      "week": 5,
+      "group": "Homophones & near homophones",
+      "words": [
+        {
+          "id": 41,
+          "word": "here",
+          "sentence": "Come and sit over here by me.",
+          "misspellings": ["hear", "heer", "heare"]
+        },
+        {
+          "id": 42,
+          "word": "hear",
+          "sentence": "Can you hear the music playing?",
+          "misspellings": ["here", "heer", "heir"]
+        },
+        {
+          "id": 43,
+          "word": "heel",
+          "sentence": "The dog walked by my heel.",
+          "misspellings": ["heal", "heele", "heelz"]
+        },
+        {
+          "id": 44,
+          "word": "heal",
+          "sentence": "The cut will heal in a few days.",
+          "misspellings": ["heel", "heall", "hele"]
+        },
+        {
+          "id": 45,
+          "word": "main",
+          "sentence": "The main road is very busy today.",
+          "misspellings": ["mane", "mein", "mayne"]
+        },
+        {
+          "id": 46,
+          "word": "mane",
+          "sentence": "The lion has a thick golden mane.",
+          "misspellings": ["main", "mayne", "man"]
+        },
+        {
+          "id": 47,
+          "word": "mail",
+          "sentence": "The postman delivered the mail early.",
+          "misspellings": ["male", "maile", "mial"]
+        },
+        {
+          "id": 48,
+          "word": "male",
+          "sentence": "The male bird has bright feathers.",
+          "misspellings": ["mail", "mal", "maile"]
+        },
+        {
+          "id": 49,
+          "word": "knot",
+          "sentence": "He tied the rope in a tight knot.",
+          "misspellings": ["not", "knott", "knotte"]
+        },
+        {
+          "id": 50,
+          "word": "not",
+          "sentence": "I did not see her at school today.",
+          "misspellings": ["knot", "noot", "nott"]
+        }
+      ]
     }
   ]
 }
