@@ -5,6 +5,7 @@
     {
       "week": 1,
       "group": "eigh/ei words",
+      "dictationDate": "23.09.25",
       "words": [
         {
           "id": 1,
@@ -71,6 +72,7 @@
     {
       "week": 2,
       "group": "ey words",
+      "dictationDate": "30.09.25",
       "words": [
         {
           "id": 11,
@@ -137,6 +139,7 @@
     {
       "week": 3,
       "group": "ai words",
+      "dictationDate": "07.10.25",
       "words": [
         {
           "id": 21,
@@ -203,6 +206,7 @@
     {
       "week": 4,
       "group": "ear words",
+      "dictationDate": "13.10.25",
       "words": [
         {
           "id": 31,
@@ -269,6 +273,7 @@
     {
       "week": 5,
       "group": "Homophones & near homophones",
+      "dictationDate": "13.10.25",
       "words": [
         {
           "id": 41,
@@ -329,6 +334,73 @@
           "word": "not",
           "sentence": "I did not see her at school today.",
           "misspellings": ["knot", "noot", "nott"]
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "group": "Homophones & near homophones",
+      "dictationDate": "21.10.25",
+      "words": [
+        {
+          "id": 51,
+          "word": "berry",
+          "sentence": "I picked a ripe red berry from the bush.",
+          "misspellings": ["bury", "berrie", "bery"]
+        },
+        {
+          "id": 52,
+          "word": "bury",
+          "sentence": "They will bury the treasure in the sand.",
+          "misspellings": ["berry", "burry", "burie"]
+        },
+        {
+          "id": 53,
+          "word": "brake",
+          "sentence": "He pressed the brake to stop the car.",
+          "misspellings": ["break", "braek", "brak"]
+        },
+        {
+          "id": 54,
+          "word": "break",
+          "sentence": "Be careful not to break the glass.",
+          "misspellings": ["brake", "brek", "braek"]
+        },
+        {
+          "id": 55,
+          "word": "meet",
+          "sentence": "Let’s meet at the park after school.",
+          "misspellings": ["meat", "mete", "meettt"]
+        },
+        {
+          "id": 56,
+          "word": "meat",
+          "sentence": "We had roast meat for dinner.",
+          "misspellings": ["meet", "mete", "meatt"]
+        },
+        {
+          "id": 57,
+          "word": "ball",
+          "sentence": "Kick the ball into the goal.",
+          "misspellings": ["bawl", "bal", "baal"]
+        },
+        {
+          "id": 58,
+          "word": "bawl",
+          "sentence": "The baby began to bawl loudly.",
+          "misspellings": ["ball", "bahl", "baul"]
+        },
+        {
+          "id": 59,
+          "word": "fair",
+          "sentence": "That’s not fair; we should all get a turn.",
+          "misspellings": ["fare", "phair", "fayre"]
+        },
+        {
+          "id": 60,
+          "word": "fare",
+          "sentence": "The bus fare costs two pounds.",
+          "misspellings": ["fair", "phare", "faer"]
         }
       ]
     }
