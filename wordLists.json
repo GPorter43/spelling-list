@@ -7,66 +7,16 @@
       "group": "eigh/ei words",
       "dictationDate": "23.09.25",
       "words": [
-        {
-          "id": 1,
-          "word": "eight",
-          "sentence": "I have eight pencils in my bag.",
-          "misspellings": ["eigth", "eightt", "aight"]
-        },
-        {
-          "id": 2,
-          "word": "eighth",
-          "sentence": "She finished in eighth place.",
-          "misspellings": ["eigths", "eigth", "eigeth"]
-        },
-        {
-          "id": 3,
-          "word": "eighty",
-          "sentence": "There are eighty pages in this book.",
-          "misspellings": ["eigthy", "eightty", "eity"]
-        },
-        {
-          "id": 4,
-          "word": "weight",
-          "sentence": "The box was heavy in weight.",
-          "misspellings": ["wieght", "weit", "weightt"]
-        },
-        {
-          "id": 5,
-          "word": "neighbour",
-          "sentence": "Our neighbour is very kind.",
-          "misspellings": ["neighbor", "neigbour", "neighour"]
-        },
-        {
-          "id": 6,
-          "word": "vein",
-          "sentence": "The nurse found the vein easily.",
-          "misspellings": ["vien", "vean", "veinn"]
-        },
-        {
-          "id": 7,
-          "word": "veil",
-          "sentence": "The bride wore a white veil.",
-          "misspellings": ["viel", "veill", "vale"]
-        },
-        {
-          "id": 8,
-          "word": "beige",
-          "sentence": "The sofa was a light beige colour.",
-          "misspellings": ["begie", "beije", "beig"]
-        },
-        {
-          "id": 9,
-          "word": "sleigh",
-          "sentence": "The horse pulled the sleigh.",
-          "misspellings": ["sliegh", "sleig", "sleighh"]
-        },
-        {
-          "id": 10,
-          "word": "freight",
-          "sentence": "The train carried freight across the country.",
-          "misspellings": ["frieght", "freit", "freightt"]
-        }
+        { "id": 1, "word": "eight", "sentence": "I have eight pencils in my bag.", "misspellings": ["eigth", "eightt", "aight"] },
+        { "id": 2, "word": "eighth", "sentence": "She finished in eighth place.", "misspellings": ["eigths", "eigth", "eigeth"] },
+        { "id": 3, "word": "eighty", "sentence": "There are eighty pages in this book.", "misspellings": ["eigthy", "eightty", "eity"] },
+        { "id": 4, "word": "weight", "sentence": "The box was heavy in weight.", "misspellings": ["wieght", "weit", "weightt"] },
+        { "id": 5, "word": "neighbour", "sentence": "Our neighbour is very kind.", "misspellings": ["neighbor", "neigbour", "neighour"] },
+        { "id": 6, "word": "vein", "sentence": "The nurse found the vein easily.", "misspellings": ["vien", "vean", "veinn"] },
+        { "id": 7, "word": "veil", "sentence": "The bride wore a white veil.", "misspellings": ["viel", "veill", "vale"] },
+        { "id": 8, "word": "beige", "sentence": "The sofa was a light beige colour.", "misspellings": ["begie", "beije", "beig"] },
+        { "id": 9, "word": "sleigh", "sentence": "The horse pulled the sleigh.", "misspellings": ["sliegh", "sleig", "sleighh"] },
+        { "id": 10, "word": "freight", "sentence": "The train carried freight across the country.", "misspellings": ["frieght", "freit", "freightt"] }
       ]
     },
     {
@@ -74,66 +24,16 @@
       "group": "ey words",
       "dictationDate": "30.09.25",
       "words": [
-        {
-          "id": 11,
-          "word": "hey",
-          "sentence": "Hey, how are you today?",
-          "misspellings": ["hay", "hei", "heyy"]
-        },
-        {
-          "id": 12,
-          "word": "they",
-          "sentence": "They are going to the park.",
-          "misspellings": ["thay", "thei", "thaey"]
-        },
-        {
-          "id": 13,
-          "word": "obey",
-          "sentence": "You must obey the rules.",
-          "misspellings": ["obay", "obe", "obeyy"]
-        },
-        {
-          "id": 14,
-          "word": "grey",
-          "sentence": "The sky was grey with clouds.",
-          "misspellings": ["gray", "grie", "greyy"]
-        },
-        {
-          "id": 15,
-          "word": "prey",
-          "sentence": "The lion chased its prey.",
-          "misspellings": ["pray", "preyy", "prei"]
-        },
-        {
-          "id": 16,
-          "word": "whey",
-          "sentence": "She added whey protein to her shake.",
-          "misspellings": ["whay", "wey", "whe"]
-        },
-        {
-          "id": 17,
-          "word": "survey",
-          "sentence": "We took part in a school survey.",
-          "misspellings": ["survay", "servei", "survae"]
-        },
-        {
-          "id": 18,
-          "word": "convey",
-          "sentence": "Please convey my thanks to her.",
-          "misspellings": ["convy", "convay", "convei"]
-        },
-        {
-          "id": 19,
-          "word": "disobey",
-          "sentence": "It is wrong to disobey your parents.",
-          "misspellings": ["disobay", "disobe", "disobeyy"]
-        },
-        {
-          "id": 20,
-          "word": "purvey",
-          "sentence": "They purvey fresh fruit at the market.",
-          "misspellings": ["purvay", "purvei", "purvye"]
-        }
+        { "id": 11, "word": "hey", "sentence": "Hey, how are you today?", "misspellings": ["hay", "hei", "heyy"] },
+        { "id": 12, "word": "they", "sentence": "They are going to the park.", "misspellings": ["thay", "thei", "thaey"] },
+        { "id": 13, "word": "obey", "sentence": "You must obey the rules.", "misspellings": ["obay", "obe", "obeyy"] },
+        { "id": 14, "word": "grey", "sentence": "The sky was grey with clouds.", "misspellings": ["gray", "grie", "greyy"] },
+        { "id": 15, "word": "prey", "sentence": "The lion chased its prey.", "misspellings": ["pray", "preyy", "prei"] },
+        { "id": 16, "word": "whey", "sentence": "She added whey protein to her shake.", "misspellings": ["whay", "wey", "whe"] },
+        { "id": 17, "word": "survey", "sentence": "We took part in a school survey.", "misspellings": ["survay", "servei", "survae"] },
+        { "id": 18, "word": "convey", "sentence": "Please convey my thanks to her.", "misspellings": ["convy", "convay", "convei"] },
+        { "id": 19, "word": "disobey", "sentence": "It is wrong to disobey your parents.", "misspellings": ["disobay", "disobe", "disobeyy"] },
+        { "id": 20, "word": "purvey", "sentence": "They purvey fresh fruit at the market.", "misspellings": ["purvay", "purvei", "purvye"] }
       ]
     },
     {
@@ -141,66 +41,16 @@
       "group": "ai words",
       "dictationDate": "07.10.25",
       "words": [
-        {
-          "id": 21,
-          "word": "straight",
-          "sentence": "Draw a straight line.",
-          "misspellings": ["strait", "straigh", "straigt"]
-        },
-        {
-          "id": 22,
-          "word": "campaign",
-          "sentence": "The campaign raised money for charity.",
-          "misspellings": ["campain", "campagin", "compaign"]
-        },
-        {
-          "id": 23,
-          "word": "contain",
-          "sentence": "The box will contain toys.",
-          "misspellings": ["contian", "contane", "containn"]
-        },
-        {
-          "id": 24,
-          "word": "brain",
-          "sentence": "The brain controls the body.",
-          "misspellings": ["bran", "brian", "brainn"]
-        },
-        {
-          "id": 25,
-          "word": "faint",
-          "sentence": "She felt faint after running.",
-          "misspellings": ["faent", "fainte", "faintt"]
-        },
-        {
-          "id": 26,
-          "word": "waist",
-          "sentence": "He tied the belt around his waist.",
-          "misspellings": ["waste", "waistt", "waust"]
-        },
-        {
-          "id": 27,
-          "word": "claim",
-          "sentence": "I need to claim my prize.",
-          "misspellings": ["clame", "claime", "claimm"]
-        },
-        {
-          "id": 28,
-          "word": "praise",
-          "sentence": "The teacher gave her praise.",
-          "misspellings": ["praize", "prase", "praisee"]
-        },
-        {
-          "id": 29,
-          "word": "complaint",
-          "sentence": "He made a complaint about the service.",
-          "misspellings": ["complaent", "complait", "complaintt"]
-        },
-        {
-          "id": 30,
-          "word": "afraid",
-          "sentence": "She was afraid of the dark.",
-          "misspellings": ["afrade", "afreid", "afriad"]
-        }
+        { "id": 21, "word": "straight", "sentence": "Draw a straight line.", "misspellings": ["strait", "straigh", "straigt"] },
+        { "id": 22, "word": "campaign", "sentence": "The campaign raised money for charity.", "misspellings": ["campain", "campagin", "compaign"] },
+        { "id": 23, "word": "contain", "sentence": "The box will contain toys.", "misspellings": ["contian", "contane", "containn"] },
+        { "id": 24, "word": "brain", "sentence": "The brain controls the body.", "misspellings": ["bran", "brian", "brainn"] },
+        { "id": 25, "word": "faint", "sentence": "She felt faint after running.", "misspellings": ["faent", "fainte", "faintt"] },
+        { "id": 26, "word": "waist", "sentence": "He tied the belt around his waist.", "misspellings": ["waste", "waistt", "waust"] },
+        { "id": 27, "word": "claim", "sentence": "I need to claim my prize.", "misspellings": ["clame", "claime", "claimm"] },
+        { "id": 28, "word": "praise", "sentence": "The teacher gave her praise.", "misspellings": ["praize", "prase", "praisee"] },
+        { "id": 29, "word": "complaint", "sentence": "He made a complaint about the service.", "misspellings": ["complaent", "complait", "complaintt"] },
+        { "id": 30, "word": "afraid", "sentence": "She was afraid of the dark.", "misspellings": ["afrade", "afreid", "afriad"] }
       ]
     },
     {
@@ -208,66 +58,16 @@
       "group": "ear words",
       "dictationDate": "13.10.25",
       "words": [
-        {
-          "id": 31,
-          "word": "earth",
-          "sentence": "The earth goes around the sun.",
-          "misspellings": ["erth", "earht", "eart"]
-        },
-        {
-          "id": 32,
-          "word": "early",
-          "sentence": "We arrived early to school.",
-          "misspellings": ["earley", "erly", "earlly"]
-        },
-        {
-          "id": 33,
-          "word": "learn",
-          "sentence": "I want to learn a new song.",
-          "misspellings": ["lern", "larn", "learnn"]
-        },
-        {
-          "id": 34,
-          "word": "heard",
-          "sentence": "I heard a loud noise outside.",
-          "misspellings": ["herd", "heared", "haerd"]
-        },
-        {
-          "id": 35,
-          "word": "earn",
-          "sentence": "She will earn a certificate for good work.",
-          "misspellings": ["ern", "earrn", "eearn"]
-        },
-        {
-          "id": 36,
-          "word": "pearl",
-          "sentence": "The pearl was inside the shell.",
-          "misspellings": ["peral", "peearl", "pearll"]
-        },
-        {
-          "id": 37,
-          "word": "search",
-          "sentence": "We had to search for the missing toy.",
-          "misspellings": ["serch", "surch", "seach"]
-        },
-        {
-          "id": 38,
-          "word": "unearth",
-          "sentence": "They will unearth old fossils.",
-          "misspellings": ["unerth", "unert", "unearthh"]
-        },
-        {
-          "id": 39,
-          "word": "earl",
-          "sentence": "The Earl lived in a big castle.",
-          "misspellings": ["erl", "earll", "earle"]
-        },
-        {
-          "id": 40,
-          "word": "rehearse",
-          "sentence": "We will rehearse the play tomorrow.",
-          "misspellings": ["rehurse", "reherse"]
-        }
+        { "id": 31, "word": "earth", "sentence": "The earth goes around the sun.", "misspellings": ["erth", "earht", "eart"] },
+        { "id": 32, "word": "early", "sentence": "We arrived early to school.", "misspellings": ["earley", "erly", "earlly"] },
+        { "id": 33, "word": "learn", "sentence": "I want to learn a new song.", "misspellings": ["lern", "larn", "learnn"] },
+        { "id": 34, "word": "heard", "sentence": "I heard a loud noise outside.", "misspellings": ["herd", "heared", "haerd"] },
+        { "id": 35, "word": "earn", "sentence": "She will earn a certificate for good work.", "misspellings": ["ern", "earrn", "eearn"] },
+        { "id": 36, "word": "pearl", "sentence": "The pearl was inside the shell.", "misspellings": ["peral", "peearl", "pearll"] },
+        { "id": 37, "word": "search", "sentence": "We had to search for the missing toy.", "misspellings": ["serch", "surch", "seach"] },
+        { "id": 38, "word": "unearth", "sentence": "They will unearth old fossils.", "misspellings": ["unerth", "unert", "unearthh"] },
+        { "id": 39, "word": "earl", "sentence": "The Earl lived in a big castle.", "misspellings": ["erl", "earll", "earle"] },
+        { "id": 40, "word": "rehearse", "sentence": "We will rehearse the play tomorrow.", "misspellings": ["rehurse", "reherse"] }
       ]
     },
     {
@@ -275,66 +75,16 @@
       "group": "Homophones & near homophones",
       "dictationDate": "13.10.25",
       "words": [
-        {
-          "id": 41,
-          "word": "here",
-          "sentence": "Come and sit over here by me.",
-          "misspellings": ["hear", "heer", "heare"]
-        },
-        {
-          "id": 42,
-          "word": "hear",
-          "sentence": "Can you hear the music playing?",
-          "misspellings": ["here", "heer", "heir"]
-        },
-        {
-          "id": 43,
-          "word": "heel",
-          "sentence": "The dog walked by my heel.",
-          "misspellings": ["heal", "heele", "heelz"]
-        },
-        {
-          "id": 44,
-          "word": "heal",
-          "sentence": "The cut will heal in a few days.",
-          "misspellings": ["heel", "heall", "hele"]
-        },
-        {
-          "id": 45,
-          "word": "main",
-          "sentence": "The main road is very busy today.",
-          "misspellings": ["mane", "mein", "mayne"]
-        },
-        {
-          "id": 46,
-          "word": "mane",
-          "sentence": "The lion has a thick golden mane.",
-          "misspellings": ["main", "mayne", "man"]
-        },
-        {
-          "id": 47,
-          "word": "mail",
-          "sentence": "The postman delivered the mail early.",
-          "misspellings": ["male", "maile", "mial"]
-        },
-        {
-          "id": 48,
-          "word": "male",
-          "sentence": "The male bird has bright feathers.",
-          "misspellings": ["mail", "mal", "maile"]
-        },
-        {
-          "id": 49,
-          "word": "knot",
-          "sentence": "He tied the rope in a tight knot.",
-          "misspellings": ["not", "knott", "knotte"]
-        },
-        {
-          "id": 50,
-          "word": "not",
-          "sentence": "I did not see her at school today.",
-          "misspellings": ["knot", "noot", "nott"]
-        }
+        { "id": 41, "word": "here", "sentence": "Come and sit over here by me.", "misspellings": ["hear", "heer", "heare"] },
+        { "id": 42, "word": "hear", "sentence": "Can you hear the music playing?", "misspellings": ["here", "heer", "heir"] },
+        { "id": 43, "word": "heel", "sentence": "The dog walked by my heel.", "misspellings": ["heal", "heele", "heelz"] },
+        { "id": 44, "word": "heal", "sentence": "The cut will heal in a few days.", "misspellings": ["heel", "heall", "hele"] },
+        { "id": 45, "word": "main", "sentence": "The main road is very busy today.", "misspellings": ["mane", "mein", "mayne"] },
+        { "id": 46, "word": "mane", "sentence": "The lion has a thick golden mane.", "misspellings": ["main", "mayne", "man"] },
+        { "id": 47, "word": "mail", "sentence": "The postman delivered the mail early.", "misspellings": ["male", "maile", "mial"] },
+        { "id": 48, "word": "male", "sentence": "The male bird has bright feathers.", "misspellings": ["mail", "mal", "maile"] },
+        { "id": 49, "word": "knot", "sentence": "He tied the rope in a tight knot.", "misspellings": ["not", "knott", "knotte"] },
+        { "id": 50, "word": "not", "sentence": "I did not see her at school today.", "misspellings": ["knot", "noot", "nott"] }
       ]
     },
     {
@@ -342,66 +92,33 @@
       "group": "Homophones & near homophones",
       "dictationDate": "21.10.25",
       "words": [
-        {
-          "id": 51,
-          "word": "berry",
-          "sentence": "I picked a ripe red berry from the bush.",
-          "misspellings": ["bury", "berrie", "bery"]
-        },
-        {
-          "id": 52,
-          "word": "bury",
-          "sentence": "They will bury the treasure in the sand.",
-          "misspellings": ["berry", "burry", "burie"]
-        },
-        {
-          "id": 53,
-          "word": "brake",
-          "sentence": "He pressed the brake to stop the car.",
-          "misspellings": ["break", "braek", "brak"]
-        },
-        {
-          "id": 54,
-          "word": "break",
-          "sentence": "Be careful not to break the glass.",
-          "misspellings": ["brake", "brek", "braek"]
-        },
-        {
-          "id": 55,
-          "word": "meet",
-          "sentence": "Let’s meet at the park after school.",
-          "misspellings": ["meat", "mete", "meettt"]
-        },
-        {
-          "id": 56,
-          "word": "meat",
-          "sentence": "We had roast meat for dinner.",
-          "misspellings": ["meet", "mete", "meatt"]
-        },
-        {
-          "id": 57,
-          "word": "ball",
-          "sentence": "Kick the ball into the goal.",
-          "misspellings": ["bawl", "bal", "baal"]
-        },
-        {
-          "id": 58,
-          "word": "bawl",
-          "sentence": "The baby began to bawl loudly.",
-          "misspellings": ["ball", "bahl", "baul"]
-        },
-        {
-          "id": 59,
-          "word": "fair",
-          "sentence": "That’s not fair; we should all get a turn.",
-          "misspellings": ["fare", "phair", "fayre"]
-        },
-        {
-          "id": 60,
-          "word": "fare",
-          "sentence": "The bus fare costs two pounds.",
-          "misspellings": ["fair", "phare", "faer"]
-        }
+        { "id": 51, "word": "berry", "sentence": "I picked a ripe red berry from the bush.", "misspellings": ["bury", "berrie", "bery"] },
+        { "id": 52, "word": "bury", "sentence": "They will bury the treasure in the sand.", "misspellings": ["berry", "burry", "burie"] },
+        { "id": 53, "word": "brake", "sentence": "He pressed the brake to stop the car.", "misspellings": ["break", "braek", "brak"] },
+        { "id": 54, "word": "break", "sentence": "Be careful not to break the glass.", "misspellings": ["brake", "brek", "braek"] },
+        { "id": 55, "word": "meet", "sentence": "Let’s meet at the park after school.", "misspellings": ["meat", "mete", "meettt"] },
+        { "id": 56, "word": "meat", "sentence": "We had roast meat for dinner.", "misspellings": ["meet", "mete", "meatt"] },
+        { "id": 57, "word": "ball", "sentence": "Kick the ball into the goal.", "misspellings": ["bawl", "bal", "baal"] },
+        { "id": 58, "word": "bawl", "sentence": "The baby began to bawl loudly.", "misspellings": ["ball", "bahl", "baul"] },
+        { "id": 59, "word": "fair", "sentence": "That’s not fair; we should all get a turn.", "misspellings": ["fare", "phair", "fayre"] },
+        { "id": 60, "word": "fare", "sentence": "The bus fare costs two pounds.", "misspellings": ["fair", "phare", "faer"] }
+      ]
+    },
+    {
+      "week": 7,
+      "group": "Creating adverbs using the suffix -ly (no change to root word)",
+      "dictationDate": "11.11.24",
+      "words": [
+        { "id": 61, "word": "kindly", "sentence": "She kindly helped her friend with the task.", "misspellings": ["kinly", "kindley", "kindyly"] },
+        { "id": 62, "word": "quickly", "sentence": "He ran quickly to catch the bus.", "misspellings": ["quikly", "quickley", "quickliy"] },
+        { "id": 63, "word": "safely", "sentence": "We crossed the road safely at the lights.", "misspellings": ["safley", "safeley", "safly"] },
+        { "id": 64, "word": "rudely", "sentence": "He rudely interrupted the conversation.", "misspellings": ["rudly", "rudeley", "rudliy"] },
+        { "id": 65, "word": "sweetly", "sentence": "The bird sang sweetly in the tree.", "misspellings": ["swetly", "sweetley", "sweetliy"] },
+        { "id": 66, "word": "strongly", "sentence": "She spoke strongly about her beliefs.", "misspellings": ["strongley", "stronley", "stronlly"] },
+        { "id": 67, "word": "bravely", "sentence": "The firefighter acted bravely to save the cat.", "misspellings": ["braveley", "bravly", "bravelly"] },
+        { "id": 68, "word": "secretly", "sentence": "He secretly wrapped the present for her birthday.", "misspellings": ["secretley", "secrely", "secretlly"] },
+        { "id": 69, "word": "finally", "sentence": "Finally, we reached the top of the hill.", "misspellings": ["finaly", "finelly", "finallly"] },
+        { "id": 70, "word": "usually", "sentence": "I usually wake up early on school days.", "misspellings": ["usualy", "usally", "usuelly"] }
       ]
     }
   ]
