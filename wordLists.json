@@ -120,6 +120,29 @@
         { "id": 69, "word": "finally", "sentence": "Finally, we reached the top of the hill.", "misspellings": ["finaly", "finelly", "finallly"] },
         { "id": 70, "word": "usually", "sentence": "I usually wake up early on school days.", "misspellings": ["usualy", "usally", "usuelly"] }
       ]
+    },
+    {
+      "week": 8,
+      "group": "Unknown (placeholder)",
+      "dictationDate": "",
+      "words": []
+    },
+    {
+      "week": 9,
+      "group": "Creating adverbs using the suffix -ly (irregular forms)",
+      "dictationDate": "09.10.24",
+      "words": [
+        { "id": 71, "word": "truly", "sentence": "She was truly grateful for the gift.", "misspellings": ["truely", "truley", "trulie"] },
+        { "id": 72, "word": "duly", "sentence": "The form was duly signed and returned.", "misspellings": ["duely", "dully", "dulie"] },
+        { "id": 73, "word": "wholly", "sentence": "The story was wholly unbelievable.", "misspellings": ["wholy", "holy", "wholley"] },
+        { "id": 74, "word": "fully", "sentence": "I fully understand the instructions now.", "misspellings": ["fulley", "fuly", "fullly"] },
+        { "id": 75, "word": "publicly", "sentence": "She publicly thanked her team.", "misspellings": ["publically", "publicaly", "publiclly"] },
+        { "id": 76, "word": "daily", "sentence": "He reads the newspaper daily.", "misspellings": ["dayly", "dailly", "daly"] },
+        { "id": 77, "word": "dryly", "sentence": "He answered the question dryly.", "misspellings": ["dryley", "drily", "drylie"] },
+        { "id": 78, "word": "slyly", "sentence": "The fox crept slyly through the bushes.", "misspellings": ["slyley", "slily", "slylie"] },
+        { "id": 79, "word": "shyly", "sentence": "She shyly raised her hand.", "misspellings": ["shyely", "shily", "shylie"] },
+        { "id": 80, "word": "coyly", "sentence": "She smiled coyly at the compliment.", "misspellings": ["coyley", "coilie", "coylie"] }
+      ]
     }
   ]
 }
