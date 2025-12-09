@@ -13,10 +13,10 @@
         { "id": 4, "word": "weight", "sentence": "The box was heavy in weight.", "misspellings": ["wieght", "weit", "weightt"] },
         { "id": 5, "word": "neighbour", "sentence": "Our neighbour is very kind.", "misspellings": ["neighbor", "neigbour", "neighour"] },
         { "id": 6, "word": "vein", "sentence": "The nurse found the vein easily.", "misspellings": ["vien", "vean", "veinn"] },
-        { "id": 7, "word": "veil", "sentence": "The bride wore a white veil.", "misspellings": ["viel", "veill", "vale"] },
-        { "id": 8, "word": "beige", "sentence": "The sofa was a light beige colour.", "misspellings": ["begie", "beije", "beig"] },
-        { "id": 9, "word": "sleigh", "sentence": "The horse pulled the sleigh.", "misspellings": ["sliegh", "sleig", "sleighh"] },
-        { "id": 10, "word": "freight", "sentence": "The train carried freight across the country.", "misspellings": ["frieght", "freit", "freightt"] }
+        { "id": 7, "word": "veil",          "sentence": "The bride wore a white veil.", "misspellings": ["viel", "veill", "vale"] },
+        { "id": 8, "word": "beige",         "sentence": "The sofa was a light beige colour.", "misspellings": ["begie", "beije", "beig"] },
+        { "id": 9, "word": "sleigh",        "sentence": "The horse pulled the sleigh.", "misspellings": ["sliegh", "sleig", "sleighh"] },
+        { "id": 10, "word": "freight",       "sentence": "The train carried freight across the country.", "misspellings": ["frieght", "freit", "freightt"] }
       ]
     },
     {
@@ -109,16 +109,16 @@
       "group": "Creating adverbs using the suffix -ly (no change to root word)",
       "dictationDate": "11.11.24",
       "words": [
-        { "id": 61, "word": "kindly", "sentence": "She kindly helped her friend with the task.", "misspellings": ["kinly", "kindley", "kindyly"] },
-        { "id": 62, "word": "quickly", "sentence": "He ran quickly to catch the bus.", "misspellings": ["quikly", "quickley", "quickliy"] },
-        { "id": 63, "word": "safely", "sentence": "We crossed the road safely at the lights.", "misspellings": ["safley", "safeley", "safly"] },
-        { "id": 64, "word": "rudely", "sentence": "He rudely interrupted the conversation.", "misspellings": ["rudly", "rudeley", "rudliy"] },
-        { "id": 65, "word": "sweetly", "sentence": "The bird sang sweetly in the tree.", "misspellings": ["swetly", "sweetley", "sweetliy"] },
+        { "id": 61, "word": "kindly",   "sentence": "She kindly helped her friend with the task.", "misspellings": ["kinly", "kindley", "kindyly"] },
+        { "id": 62, "word": "quickly",  "sentence": "He ran quickly to catch the bus.", "misspellings": ["quikly", "quickley", "quickliy"] },
+        { "id": 63, "word": "safely",   "sentence": "We crossed the road safely at the lights.", "misspellings": ["safley", "safeley", "safly"] },
+        { "id": 64, "word": "rudely",   "sentence": "He rudely interrupted the conversation.", "misspellings": ["rudly", "rudeley", "rudliy"] },
+        { "id": 65, "word": "sweetly",  "sentence": "The bird sang sweetly in the tree.", "misspellings": ["swetly", "sweetley", "sweetliy"] },
         { "id": 66, "word": "strongly", "sentence": "She spoke strongly about her beliefs.", "misspellings": ["strongley", "stronley", "stronlly"] },
-        { "id": 67, "word": "bravely", "sentence": "The firefighter acted bravely to save the cat.", "misspellings": ["braveley", "bravly", "bravelly"] },
+        { "id": 67, "word": "bravely",  "sentence": "The firefighter acted bravely to save the cat.", "misspellings": ["braveley", "bravly", "bravelly"] },
         { "id": 68, "word": "secretly", "sentence": "He secretly wrapped the present for her birthday.", "misspellings": ["secretley", "secrely", "secretlly"] },
-        { "id": 69, "word": "finally", "sentence": "Finally, we reached the top of the hill.", "misspellings": ["finaly", "finelly", "finallly"] },
-        { "id": 70, "word": "usually", "sentence": "I usually wake up early on school days.", "misspellings": ["usualy", "usally", "usuelly"] }
+        { "id": 69, "word": "finally",  "sentence": "Finally, we reached the top of the hill.", "misspellings": ["finaly", "finelly", "finallly"] },
+        { "id": 70, "word": "usually",  "sentence": "I usually wake up early on school days.", "misspellings": ["usualy", "usally", "usuelly"] }
       ]
     },
     {
@@ -142,6 +142,23 @@
         { "id": 78, "word": "slyly", "sentence": "The fox crept slyly through the bushes.", "misspellings": ["slyley", "slily", "slylie"] },
         { "id": 79, "word": "shyly", "sentence": "She shyly raised her hand.", "misspellings": ["shyely", "shily", "shylie"] },
         { "id": 80, "word": "coyly", "sentence": "She smiled coyly at the compliment.", "misspellings": ["coyley", "coilie", "coylie"] }
+      ]
+    },
+    {
+      "week": 10,
+      "group": "Statutory Spelling Challenge Words",
+      "dictationDate": "16.12.24",
+      "words": [
+        { "id": 81, "word": "believe", "sentence": "I believe you can do great things.", "misspellings": ["beleive", "belive", "beliave"] },
+        { "id": 82, "word": "appear", "sentence": "The rabbit will appear from the hat.", "misspellings": ["aper", "appeer", "apear"] },
+        { "id": 83, "word": "often", "sentence": "We often walk to school together.", "misspellings": ["offten", "ofen", "oftan"] },
+        { "id": 84, "word": "group", "sentence": "Our group finished the project early.", "misspellings": ["groop", "grup", "gruop"] },
+        { "id": 85, "word": "breath", "sentence": "Take a deep breath before you start.", "misspellings": ["breathe", "breth", "breeth"] },
+        { "id": 86, "word": "continue", "sentence": "We will continue the lesson after break.", "misspellings": ["continew", "continuu", "coninue"] },
+        { "id": 87, "word": "arrive", "sentence": "We will arrive at school soon.", "misspellings": ["arive", "arriv", "arrvive"] },
+        { "id": 88, "word": "women", "sentence": "The women worked together on the project.", "misspellings": ["womans", "weman", "womin"] },
+        { "id": 89, "word": "describe", "sentence": "Please describe what you saw.", "misspellings": ["discribe", "descrbe", "descripe"] },
+        { "id": 90, "word": "height", "sentence": "Her height has increased this year.", "misspellings": ["hight", "heigt", "heigth"] }
       ]
     }
   ]
