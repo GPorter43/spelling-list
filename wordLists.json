@@ -5,7 +5,7 @@
     {
       "week": 1,
       "group": "eigh/ei words",
-      "dictationDate": "23.09.25",
+      "dictationDate": "",
       "words": [
         { "id": 1, "word": "eight", "sentence": "I have eight pencils in my bag.", "misspellings": ["eigth", "eightt", "aight"] },
         { "id": 2, "word": "eighth", "sentence": "She finished in eighth place.", "misspellings": ["eigths", "eigth", "eigeth"] },
@@ -13,16 +13,16 @@
         { "id": 4, "word": "weight", "sentence": "The box was heavy in weight.", "misspellings": ["wieght", "weit", "weightt"] },
         { "id": 5, "word": "neighbour", "sentence": "Our neighbour is very kind.", "misspellings": ["neighbor", "neigbour", "neighour"] },
         { "id": 6, "word": "vein", "sentence": "The nurse found the vein easily.", "misspellings": ["vien", "vean", "veinn"] },
-        { "id": 7, "word": "veil",          "sentence": "The bride wore a white veil.", "misspellings": ["viel", "veill", "vale"] },
-        { "id": 8, "word": "beige",         "sentence": "The sofa was a light beige colour.", "misspellings": ["begie", "beije", "beig"] },
-        { "id": 9, "word": "sleigh",        "sentence": "The horse pulled the sleigh.", "misspellings": ["sliegh", "sleig", "sleighh"] },
-        { "id": 10, "word": "freight",       "sentence": "The train carried freight across the country.", "misspellings": ["frieght", "freit", "freightt"] }
+        { "id": 7, "word": "veil", "sentence": "The bride wore a white veil.", "misspellings": ["viel", "veill", "vale"] },
+        { "id": 8, "word": "beige", "sentence": "The sofa was a light beige colour.", "misspellings": ["begie", "beije", "beig"] },
+        { "id": 9, "word": "sleigh", "sentence": "The horse pulled the sleigh.", "misspellings": ["sliegh", "sleig", "sleighh"] },
+        { "id": 10, "word": "freight", "sentence": "The train carried freight across the country.", "misspellings": ["frieght", "freit", "freightt"] }
       ]
     },
     {
       "week": 2,
       "group": "ey words",
-      "dictationDate": "30.09.25",
+      "dictationDate": "",
       "words": [
         { "id": 11, "word": "hey", "sentence": "Hey, how are you today?", "misspellings": ["hay", "hei", "heyy"] },
         { "id": 12, "word": "they", "sentence": "They are going to the park.", "misspellings": ["thay", "thei", "thaey"] },
@@ -39,7 +39,7 @@
     {
       "week": 3,
       "group": "ai words",
-      "dictationDate": "07.10.25",
+      "dictationDate": "",
       "words": [
         { "id": 21, "word": "straight", "sentence": "Draw a straight line.", "misspellings": ["strait", "straigh", "straigt"] },
         { "id": 22, "word": "campaign", "sentence": "The campaign raised money for charity.", "misspellings": ["campain", "campagin", "compaign"] },
@@ -56,7 +56,7 @@
     {
       "week": 4,
       "group": "ear words",
-      "dictationDate": "13.10.25",
+      "dictationDate": "",
       "words": [
         { "id": 31, "word": "earth", "sentence": "The earth goes around the sun.", "misspellings": ["erth", "earht", "eart"] },
         { "id": 32, "word": "early", "sentence": "We arrived early to school.", "misspellings": ["earley", "erly", "earlly"] },
@@ -73,7 +73,7 @@
     {
       "week": 5,
       "group": "Homophones & near homophones",
-      "dictationDate": "13.10.25",
+      "dictationDate": "",
       "words": [
         { "id": 41, "word": "here", "sentence": "Come and sit over here by me.", "misspellings": ["hear", "heer", "heare"] },
         { "id": 42, "word": "hear", "sentence": "Can you hear the music playing?", "misspellings": ["here", "heer", "heir"] },
@@ -90,7 +90,7 @@
     {
       "week": 6,
       "group": "Homophones & near homophones",
-      "dictationDate": "21.10.25",
+      "dictationDate": "",
       "words": [
         { "id": 51, "word": "berry", "sentence": "I picked a ripe red berry from the bush.", "misspellings": ["bury", "berrie", "bery"] },
         { "id": 52, "word": "bury", "sentence": "They will bury the treasure in the sand.", "misspellings": ["berry", "burry", "burie"] },
@@ -106,19 +106,19 @@
     },
     {
       "week": 7,
-      "group": "Creating adverbs using the suffix -ly (no change to root word)",
+      "group": "Creating adverbs using the suffix -ly (no change)",
       "dictationDate": "11.11.24",
       "words": [
-        { "id": 61, "word": "kindly",   "sentence": "She kindly helped her friend with the task.", "misspellings": ["kinly", "kindley", "kindyly"] },
-        { "id": 62, "word": "quickly",  "sentence": "He ran quickly to catch the bus.", "misspellings": ["quikly", "quickley", "quickliy"] },
-        { "id": 63, "word": "safely",   "sentence": "We crossed the road safely at the lights.", "misspellings": ["safley", "safeley", "safly"] },
-        { "id": 64, "word": "rudely",   "sentence": "He rudely interrupted the conversation.", "misspellings": ["rudly", "rudeley", "rudliy"] },
-        { "id": 65, "word": "sweetly",  "sentence": "The bird sang sweetly in the tree.", "misspellings": ["swetly", "sweetley", "sweetliy"] },
-        { "id": 66, "word": "strongly", "sentence": "She spoke strongly about her beliefs.", "misspellings": ["strongley", "stronley", "stronlly"] },
-        { "id": 67, "word": "bravely",  "sentence": "The firefighter acted bravely to save the cat.", "misspellings": ["braveley", "bravly", "bravelly"] },
-        { "id": 68, "word": "secretly", "sentence": "He secretly wrapped the present for her birthday.", "misspellings": ["secretley", "secrely", "secretlly"] },
-        { "id": 69, "word": "finally",  "sentence": "Finally, we reached the top of the hill.", "misspellings": ["finaly", "finelly", "finallly"] },
-        { "id": 70, "word": "usually",  "sentence": "I usually wake up early on school days.", "misspellings": ["usualy", "usally", "usuelly"] }
+        { "id": 61, "word": "kindly", "sentence": "She kindly helped her friend.", "misspellings": ["kinly", "kindley"] },
+        { "id": 62, "word": "quickly", "sentence": "He ran quickly to school.", "misspellings": ["quikly", "quickley"] },
+        { "id": 63, "word": "safely", "sentence": "We crossed safely.", "misspellings": ["safley", "safeley"] },
+        { "id": 64, "word": "rudely", "sentence": "He spoke rudely.", "misspellings": ["rudly", "rudeley"] },
+        { "id": 65, "word": "sweetly", "sentence": "She smiled sweetly.", "misspellings": ["swetly", "sweetley"] },
+        { "id": 66, "word": "strongly", "sentence": "She argued strongly.", "misspellings": ["strongley"] },
+        { "id": 67, "word": "bravely", "sentence": "He acted bravely.", "misspellings": ["braveley"] },
+        { "id": 68, "word": "secretly", "sentence": "She secretly planned it.", "misspellings": ["secretley"] },
+        { "id": 69, "word": "finally", "sentence": "Finally, we arrived.", "misspellings": ["finaly"] },
+        { "id": 70, "word": "usually", "sentence": "I usually wake early.", "misspellings": ["usualy"] }
       ]
     },
     {
@@ -129,19 +129,19 @@
     },
     {
       "week": 9,
-      "group": "Creating adverbs using the suffix -ly (irregular forms)",
+      "group": "Creating adverbs using the suffix -ly (irregular)",
       "dictationDate": "09.10.24",
       "words": [
-        { "id": 71, "word": "truly", "sentence": "She was truly grateful for the gift.", "misspellings": ["truely", "truley", "trulie"] },
-        { "id": 72, "word": "duly", "sentence": "The form was duly signed and returned.", "misspellings": ["duely", "dully", "dulie"] },
-        { "id": 73, "word": "wholly", "sentence": "The story was wholly unbelievable.", "misspellings": ["wholy", "holy", "wholley"] },
-        { "id": 74, "word": "fully", "sentence": "I fully understand the instructions now.", "misspellings": ["fulley", "fuly", "fullly"] },
-        { "id": 75, "word": "publicly", "sentence": "She publicly thanked her team.", "misspellings": ["publically", "publicaly", "publiclly"] },
-        { "id": 76, "word": "daily", "sentence": "He reads the newspaper daily.", "misspellings": ["dayly", "dailly", "daly"] },
-        { "id": 77, "word": "dryly", "sentence": "He answered the question dryly.", "misspellings": ["dryley", "drily", "drylie"] },
-        { "id": 78, "word": "slyly", "sentence": "The fox crept slyly through the bushes.", "misspellings": ["slyley", "slily", "slylie"] },
-        { "id": 79, "word": "shyly", "sentence": "She shyly raised her hand.", "misspellings": ["shyely", "shily", "shylie"] },
-        { "id": 80, "word": "coyly", "sentence": "She smiled coyly at the compliment.", "misspellings": ["coyley", "coilie", "coylie"] }
+        { "id": 71, "word": "truly", "sentence": "She was truly happy.", "misspellings": ["truely"] },
+        { "id": 72, "word": "duly", "sentence": "The form was duly signed.", "misspellings": ["duely"] },
+        { "id": 73, "word": "wholly", "sentence": "The task was wholly complete.", "misspellings": ["wholy"] },
+        { "id": 74, "word": "fully", "sentence": "I fully understand.", "misspellings": ["fulley"] },
+        { "id": 75, "word": "publicly", "sentence": "She spoke publicly.", "misspellings": ["publically"] },
+        { "id": 76, "word": "daily", "sentence": "He reads daily.", "misspellings": ["dayly"] },
+        { "id": 77, "word": "dryly", "sentence": "He replied dryly.", "misspellings": ["dryley"] },
+        { "id": 78, "word": "slyly", "sentence": "The fox moved slyly.", "misspellings": ["slyley"] },
+        { "id": 79, "word": "shyly", "sentence": "She spoke shyly.", "misspellings": ["shyely"] },
+        { "id": 80, "word": "coyly", "sentence": "She smiled coyly.", "misspellings": ["coyley"] }
       ]
     },
     {
@@ -149,16 +149,33 @@
       "group": "Statutory Spelling Challenge Words",
       "dictationDate": "16.12.24",
       "words": [
-        { "id": 81, "word": "believe", "sentence": "I believe you can do great things.", "misspellings": ["beleive", "belive", "beliave"] },
-        { "id": 82, "word": "appear", "sentence": "The rabbit will appear from the hat.", "misspellings": ["aper", "appeer", "apear"] },
-        { "id": 83, "word": "often", "sentence": "We often walk to school together.", "misspellings": ["offten", "ofen", "oftan"] },
-        { "id": 84, "word": "group", "sentence": "Our group finished the project early.", "misspellings": ["groop", "grup", "gruop"] },
-        { "id": 85, "word": "breath", "sentence": "Take a deep breath before you start.", "misspellings": ["breathe", "breth", "breeth"] },
-        { "id": 86, "word": "continue", "sentence": "We will continue the lesson after break.", "misspellings": ["continew", "continuu", "coninue"] },
-        { "id": 87, "word": "arrive", "sentence": "We will arrive at school soon.", "misspellings": ["arive", "arriv", "arrvive"] },
-        { "id": 88, "word": "women", "sentence": "The women worked together on the project.", "misspellings": ["womans", "weman", "womin"] },
-        { "id": 89, "word": "describe", "sentence": "Please describe what you saw.", "misspellings": ["discribe", "descrbe", "descripe"] },
-        { "id": 90, "word": "height", "sentence": "Her height has increased this year.", "misspellings": ["hight", "heigt", "heigth"] }
+        { "id": 81, "word": "believe", "sentence": "I believe you.", "misspellings": ["beleive"] },
+        { "id": 82, "word": "appear", "sentence": "It will appear soon.", "misspellings": ["apear"] },
+        { "id": 83, "word": "often", "sentence": "We often walk.", "misspellings": ["offten"] },
+        { "id": 84, "word": "group", "sentence": "Work in a group.", "misspellings": ["gruop"] },
+        { "id": 85, "word": "breath", "sentence": "Take a deep breath.", "misspellings": ["breathe"] },
+        { "id": 86, "word": "continue", "sentence": "Please continue.", "misspellings": ["coninue"] },
+        { "id": 87, "word": "arrive", "sentence": "We arrive soon.", "misspellings": ["arive"] },
+        { "id": 88, "word": "women", "sentence": "The women agreed.", "misspellings": ["weman"] },
+        { "id": 89, "word": "describe", "sentence": "Describe the picture.", "misspellings": ["discribe"] },
+        { "id": 90, "word": "height", "sentence": "Measure the height.", "misspellings": ["hight"] }
+      ]
+    },
+    {
+      "week": 11,
+      "group": "Words with short /i/ sound spelt 'y'",
+      "dictationDate": "21.01.26",
+      "words": [
+        { "id": 91, "word": "myth", "sentence": "That story is a myth.", "misspellings": ["mith"] },
+        { "id": 92, "word": "gym", "sentence": "We went to the gym.", "misspellings": ["jim"] },
+        { "id": 93, "word": "Egypt", "sentence": "Egypt has pyramids.", "misspellings": ["Egipt"] },
+        { "id": 94, "word": "pyramid", "sentence": "The pyramid was tall.", "misspellings": ["piramid"] },
+        { "id": 95, "word": "mystery", "sentence": "It was a mystery.", "misspellings": ["mistery"] },
+        { "id": 96, "word": "hymn", "sentence": "We sang a hymn.", "misspellings": ["him"] },
+        { "id": 97, "word": "system", "sentence": "The system works.", "misspellings": ["sistem"] },
+        { "id": 98, "word": "symbol", "sentence": "The heart is a symbol.", "misspellings": ["simbol"] },
+        { "id": 99, "word": "lyric", "sentence": "I forgot the lyric.", "misspellings": ["liric"] },
+        { "id": 100, "word": "typical", "sentence": "That is typical.", "misspellings": ["tipical"] }
       ]
     }
   ]
