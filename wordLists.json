@@ -75,16 +75,16 @@
       "group": "Homophones & near homophones",
       "dictationDate": "",
       "words": [
-        { "id": 41, "word": "here", "sentence": "Come and sit over here by me.", "misspellings": ["hear", "heer", "heare"] },
-        { "id": 42, "word": "hear", "sentence": "Can you hear the music playing?", "misspellings": ["here", "heer", "heir"] },
-        { "id": 43, "word": "heel", "sentence": "The dog walked by my heel.", "misspellings": ["heal", "heele", "heelz"] },
-        { "id": 44, "word": "heal", "sentence": "The cut will heal in a few days.", "misspellings": ["heel", "heall", "hele"] },
-        { "id": 45, "word": "main", "sentence": "The main road is very busy today.", "misspellings": ["mane", "mein", "mayne"] },
-        { "id": 46, "word": "mane", "sentence": "The lion has a thick golden mane.", "misspellings": ["main", "mayne", "man"] },
-        { "id": 47, "word": "mail", "sentence": "The postman delivered the mail early.", "misspellings": ["male", "maile", "mial"] },
-        { "id": 48, "word": "male", "sentence": "The male bird has bright feathers.", "misspellings": ["mail", "mal", "maile"] },
-        { "id": 49, "word": "knot", "sentence": "He tied the rope in a tight knot.", "misspellings": ["not", "knott", "knotte"] },
-        { "id": 50, "word": "not", "sentence": "I did not see her at school today.", "misspellings": ["knot", "noot", "nott"] }
+        { "id": 41, "word": "here", "sentence": "Come and sit over here.", "misspellings": ["hear"] },
+        { "id": 42, "word": "hear", "sentence": "Can you hear the music?", "misspellings": ["here"] },
+        { "id": 43, "word": "heel", "sentence": "The dog walked by my heel.", "misspellings": ["heal"] },
+        { "id": 44, "word": "heal", "sentence": "The cut will heal.", "misspellings": ["heel"] },
+        { "id": 45, "word": "main", "sentence": "The main road is busy.", "misspellings": ["mane"] },
+        { "id": 46, "word": "mane", "sentence": "The lion has a mane.", "misspellings": ["main"] },
+        { "id": 47, "word": "mail", "sentence": "The mail arrived early.", "misspellings": ["male"] },
+        { "id": 48, "word": "male", "sentence": "The male bird sang.", "misspellings": ["mail"] },
+        { "id": 49, "word": "knot", "sentence": "Tie the knot tightly.", "misspellings": ["not"] },
+        { "id": 50, "word": "not", "sentence": "I did not see her.", "misspellings": ["knot"] }
       ]
     },
     {
@@ -92,31 +92,31 @@
       "group": "Homophones & near homophones",
       "dictationDate": "",
       "words": [
-        { "id": 51, "word": "berry", "sentence": "I picked a ripe red berry from the bush.", "misspellings": ["bury", "berrie", "bery"] },
-        { "id": 52, "word": "bury", "sentence": "They will bury the treasure in the sand.", "misspellings": ["berry", "burry", "burie"] },
-        { "id": 53, "word": "brake", "sentence": "He pressed the brake to stop the car.", "misspellings": ["break", "braek", "brak"] },
-        { "id": 54, "word": "break", "sentence": "Be careful not to break the glass.", "misspellings": ["brake", "brek", "braek"] },
-        { "id": 55, "word": "meet", "sentence": "Let’s meet at the park after school.", "misspellings": ["meat", "mete", "meettt"] },
-        { "id": 56, "word": "meat", "sentence": "We had roast meat for dinner.", "misspellings": ["meet", "mete", "meatt"] },
-        { "id": 57, "word": "ball", "sentence": "Kick the ball into the goal.", "misspellings": ["bawl", "bal", "baal"] },
-        { "id": 58, "word": "bawl", "sentence": "The baby began to bawl loudly.", "misspellings": ["ball", "bahl", "baul"] },
-        { "id": 59, "word": "fair", "sentence": "That’s not fair; we should all get a turn.", "misspellings": ["fare", "phair", "fayre"] },
-        { "id": 60, "word": "fare", "sentence": "The bus fare costs two pounds.", "misspellings": ["fair", "phare", "faer"] }
+        { "id": 51, "word": "berry", "sentence": "I picked a berry.", "misspellings": ["bury"] },
+        { "id": 52, "word": "bury", "sentence": "They will bury treasure.", "misspellings": ["berry"] },
+        { "id": 53, "word": "brake", "sentence": "Press the brake.", "misspellings": ["break"] },
+        { "id": 54, "word": "break", "sentence": "Do not break it.", "misspellings": ["brake"] },
+        { "id": 55, "word": "meet", "sentence": "Let us meet later.", "misspellings": ["meat"] },
+        { "id": 56, "word": "meat", "sentence": "We ate meat.", "misspellings": ["meet"] },
+        { "id": 57, "word": "ball", "sentence": "Kick the ball.", "misspellings": ["bawl"] },
+        { "id": 58, "word": "bawl", "sentence": "The baby began to bawl.", "misspellings": ["ball"] },
+        { "id": 59, "word": "fair", "sentence": "That is fair.", "misspellings": ["fare"] },
+        { "id": 60, "word": "fare", "sentence": "The bus fare is two pounds.", "misspellings": ["fair"] }
       ]
     },
     {
       "week": 7,
-      "group": "Creating adverbs using the suffix -ly (no change)",
+      "group": "Creating adverbs using the suffix -ly",
       "dictationDate": "11.11.24",
       "words": [
-        { "id": 61, "word": "kindly", "sentence": "She kindly helped her friend.", "misspellings": ["kinly", "kindley"] },
-        { "id": 62, "word": "quickly", "sentence": "He ran quickly to school.", "misspellings": ["quikly", "quickley"] },
-        { "id": 63, "word": "safely", "sentence": "We crossed safely.", "misspellings": ["safley", "safeley"] },
-        { "id": 64, "word": "rudely", "sentence": "He spoke rudely.", "misspellings": ["rudly", "rudeley"] },
-        { "id": 65, "word": "sweetly", "sentence": "She smiled sweetly.", "misspellings": ["swetly", "sweetley"] },
+        { "id": 61, "word": "kindly", "sentence": "She kindly helped.", "misspellings": ["kinly"] },
+        { "id": 62, "word": "quickly", "sentence": "He ran quickly.", "misspellings": ["quikly"] },
+        { "id": 63, "word": "safely", "sentence": "We crossed safely.", "misspellings": ["safley"] },
+        { "id": 64, "word": "rudely", "sentence": "He spoke rudely.", "misspellings": ["rudly"] },
+        { "id": 65, "word": "sweetly", "sentence": "She sang sweetly.", "misspellings": ["swetly"] },
         { "id": 66, "word": "strongly", "sentence": "She argued strongly.", "misspellings": ["strongley"] },
         { "id": 67, "word": "bravely", "sentence": "He acted bravely.", "misspellings": ["braveley"] },
-        { "id": 68, "word": "secretly", "sentence": "She secretly planned it.", "misspellings": ["secretley"] },
+        { "id": 68, "word": "secretly", "sentence": "She secretly planned.", "misspellings": ["secretley"] },
         { "id": 69, "word": "finally", "sentence": "Finally, we arrived.", "misspellings": ["finaly"] },
         { "id": 70, "word": "usually", "sentence": "I usually wake early.", "misspellings": ["usualy"] }
       ]
@@ -176,6 +176,23 @@
         { "id": 98, "word": "symbol", "sentence": "The heart is a symbol.", "misspellings": ["simbol"] },
         { "id": 99, "word": "lyric", "sentence": "I forgot the lyric.", "misspellings": ["liric"] },
         { "id": 100, "word": "typical", "sentence": "That is typical.", "misspellings": ["tipical"] }
+      ]
+    },
+    {
+      "week": 12,
+      "group": "Creating negative meanings using prefix dis-",
+      "dictationDate": "05.03.25",
+      "words": [
+        { "id": 101, "word": "dislike", "sentence": "I dislike waking up early.", "misspellings": ["disliek"] },
+        { "id": 102, "word": "disobey", "sentence": "It is wrong to disobey rules.", "misspellings": ["disobay"] },
+        { "id": 103, "word": "discolour", "sentence": "The sun can discolour fabric.", "misspellings": ["discolor"] },
+        { "id": 104, "word": "discover", "sentence": "We hope to discover something new.", "misspellings": ["discvoer"] },
+        { "id": 105, "word": "disappear", "sentence": "The rabbit seemed to disappear.", "misspellings": ["disapear"] },
+        { "id": 106, "word": "dishonest", "sentence": "It is dishonest to lie.", "misspellings": ["dishonnest"] },
+        { "id": 107, "word": "disallow", "sentence": "Phones are disallowed in class.", "misspellings": ["disalow"] },
+        { "id": 108, "word": "disbelieve", "sentence": "It is hard to disbelieve that.", "misspellings": ["disbeleive"] },
+        { "id": 109, "word": "disapprove", "sentence": "Parents may disapprove of rude behaviour.", "misspellings": ["disaprove"] },
+        { "id": 110, "word": "discontinue", "sentence": "The shop will discontinue that item.", "misspellings": ["discontinew"] }
       ]
     }
   ]
