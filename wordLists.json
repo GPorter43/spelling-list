@@ -261,7 +261,73 @@
       "misspellings": ["tecnology", "technolgy", "technolagy"]
     }
   ]
-}
+},{
+  "week": 14,
+  "group": "Adding the prefix bi- (meaning two or twice)",
+  "dictationDate": "19.03.26",
+  "words": [
+    {
+      "id": 121,
+      "word": "bicycle",
+      "sentence": "I ride my bicycle to the park.",
+      "misspellings": ["bicicle", "bycycle", "bicycel"]
+    },
+    {
+      "id": 122,
+      "word": "biplane",
+      "sentence": "The old biplane flew over the field.",
+      "misspellings": ["byplane", "biplain", "biplnae"]
+    },
+    {
+      "id": 123,
+      "word": "bisect",
+      "sentence": "Draw a line to bisect the shape.",
+      "misspellings": ["bisectt", "bysect", "bissect"]
+    },
+    {
+      "id": 124,
+      "word": "bilingual",
+      "sentence": "She is bilingual and speaks two languages.",
+      "misspellings": ["bilingul", "bilinguel", "bylingual"]
+    },
+    {
+      "id": 125,
+      "word": "biannual",
+      "sentence": "The event is held biannual.",
+      "misspellings": ["biannuel", "biannal", "byannual"]
+    },
+    {
+      "id": 126,
+      "word": "reappear",
+      "sentence": "The rainbow will reappear after the rain.",
+      "misspellings": ["reapear", "reapper", "reapearr"]
+    },
+    {
+      "id": 127,
+      "word": "redecorate",
+      "sentence": "We will redecorate the living room.",
+      "misspellings": ["redecorrate", "redecorat", "redecroate"]
+    },
+    {
+      "id": 128,
+      "word": "reapply",
+      "sentence": "You must reapply for the position.",
+      "misspellings": ["reaply", "reaplly", "reapplyy"]
+    },
+    {
+      "id": 129,
+      "word": "repay",
+      "sentence": "I will repay the money tomorrow.",
+      "misspellings": ["repayyy", "repae", "repai"]
+    },
+    {
+      "id": 130,
+      "word": "rebuild",
+      "sentence": "Workers will rebuild the bridge.",
+      "misspellings": ["rebild", "rebuld", "rebiuld"]
+    }
+  ]
+    }
   ]
 }
 
