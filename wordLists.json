@@ -196,138 +196,55 @@
       ]
     },
     {
-  "week": 13,
-  "group": "Words with /k/ sound spelt 'ch'",
-  "dictationDate": "12.03.26",
-  "words": [
-    {
-      "id": 111,
-      "word": "scheme",
-      "sentence": "They created a clever scheme.",
-      "misspellings": ["skeem", "schme", "sheme"]
+      "week": 13,
+      "group": "Words with /k/ sound spelt 'ch'",
+      "dictationDate": "12.03.26",
+      "words": [
+        { "id": 111, "word": "scheme", "sentence": "They created a clever scheme.", "misspellings": ["skeem", "schme", "sheme"] },
+        { "id": 112, "word": "chorus", "sentence": "The class sang the chorus together.", "misspellings": ["corus", "chorous", "choris"] },
+        { "id": 113, "word": "echo", "sentence": "The shout made an echo in the cave.", "misspellings": ["eko", "echoo", "ecco"] },
+        { "id": 114, "word": "character", "sentence": "The main character solved the mystery.", "misspellings": ["caracter", "charactor", "charcter"] },
+        { "id": 115, "word": "ache", "sentence": "My legs ache after running.", "misspellings": ["ake", "achee", "ach"] },
+        { "id": 116, "word": "chaos", "sentence": "The playground was full of chaos.", "misspellings": ["kaos", "chaoss", "chaes"] },
+        { "id": 117, "word": "stomach", "sentence": "My stomach hurt after eating too much.", "misspellings": ["stomack", "stomoch", "stommach"] },
+        { "id": 118, "word": "chemistry", "sentence": "We learned about chemistry in science.", "misspellings": ["kemistry", "chemestry", "chemstry"] },
+        { "id": 119, "word": "orchestra", "sentence": "The orchestra played beautiful music.", "misspellings": ["orkestra", "orcestra", "orchestraa"] },
+        { "id": 120, "word": "technology", "sentence": "Technology changes very quickly.", "misspellings": ["tecnology", "technolgy", "technolagy"] }
+      ]
     },
     {
-      "id": 112,
-      "word": "chorus",
-      "sentence": "The class sang the chorus together.",
-      "misspellings": ["corus", "chorous", "choris"]
+      "week": 14,
+      "group": "Adding the prefix bi- (meaning two or twice)",
+      "dictationDate": "19.03.26",
+      "words": [
+        { "id": 121, "word": "bicycle", "sentence": "I ride my bicycle to the park.", "misspellings": ["bicicle", "bycycle", "bicycel"] },
+        { "id": 122, "word": "biplane", "sentence": "The old biplane flew over the field.", "misspellings": ["byplane", "biplain", "biplnae"] },
+        { "id": 123, "word": "bisect", "sentence": "Draw a line to bisect the shape.", "misspellings": ["bisectt", "bysect", "bissect"] },
+        { "id": 124, "word": "bilingual", "sentence": "She is bilingual and speaks two languages.", "misspellings": ["bilingul", "bilinguel", "bylingual"] },
+        { "id": 125, "word": "biannual", "sentence": "The event is held biannual.", "misspellings": ["biannuel", "biannal", "byannual"] },
+        { "id": 126, "word": "reappear", "sentence": "The rainbow will reappear after the rain.", "misspellings": ["reapear", "reapper", "reapearr"] },
+        { "id": 127, "word": "redecorate", "sentence": "We will redecorate the living room.", "misspellings": ["redecorrate", "redecorat", "redecroate"] },
+        { "id": 128, "word": "reapply", "sentence": "You must reapply for the position.", "misspellings": ["reaply", "reaplly", "reapplyy"] },
+        { "id": 129, "word": "repay", "sentence": "I will repay the money tomorrow.", "misspellings": ["repayyy", "repae", "repai"] },
+        { "id": 130, "word": "rebuild", "sentence": "Workers will rebuild the bridge.", "misspellings": ["rebild", "rebuld", "rebiuld"] }
+      ]
     },
     {
-      "id": 113,
-      "word": "echo",
-      "sentence": "The shout made an echo in the cave.",
-      "misspellings": ["eko", "echoo", "ecco"]
-    },
-    {
-      "id": 114,
-      "word": "character",
-      "sentence": "The main character solved the mystery.",
-      "misspellings": ["caracter", "charactor", "charcter"]
-    },
-    {
-      "id": 115,
-      "word": "ache",
-      "sentence": "My legs ache after running.",
-      "misspellings": ["ake", "achee", "ach"]
-    },
-    {
-      "id": 116,
-      "word": "chaos",
-      "sentence": "The playground was full of chaos.",
-      "misspellings": ["kaos", "chaoss", "chaes"]
-    },
-    {
-      "id": 117,
-      "word": "stomach",
-      "sentence": "My stomach hurt after eating too much.",
-      "misspellings": ["stomack", "stomoch", "stommach"]
-    },
-    {
-      "id": 118,
-      "word": "chemistry",
-      "sentence": "We learned about chemistry in science.",
-      "misspellings": ["kemistry", "chemestry", "chemstry"]
-    },
-    {
-      "id": 119,
-      "word": "orchestra",
-      "sentence": "The orchestra played beautiful music.",
-      "misspellings": ["orkestra", "orcestra", "orchestraa"]
-    },
-    {
-      "id": 120,
-      "word": "technology",
-      "sentence": "Technology changes very quickly.",
-      "misspellings": ["tecnology", "technolgy", "technolagy"]
-    }
-  ]
-},{
-  "week": 14,
-  "group": "Adding the prefix bi- (meaning two or twice)",
-  "dictationDate": "19.03.26",
-  "words": [
-    {
-      "id": 121,
-      "word": "bicycle",
-      "sentence": "I ride my bicycle to the park.",
-      "misspellings": ["bicicle", "bycycle", "bicycel"]
-    },
-    {
-      "id": 122,
-      "word": "biplane",
-      "sentence": "The old biplane flew over the field.",
-      "misspellings": ["byplane", "biplain", "biplnae"]
-    },
-    {
-      "id": 123,
-      "word": "bisect",
-      "sentence": "Draw a line to bisect the shape.",
-      "misspellings": ["bisectt", "bysect", "bissect"]
-    },
-    {
-      "id": 124,
-      "word": "bilingual",
-      "sentence": "She is bilingual and speaks two languages.",
-      "misspellings": ["bilingul", "bilinguel", "bylingual"]
-    },
-    {
-      "id": 125,
-      "word": "biannual",
-      "sentence": "The event is held biannual.",
-      "misspellings": ["biannuel", "biannal", "byannual"]
-    },
-    {
-      "id": 126,
-      "word": "reappear",
-      "sentence": "The rainbow will reappear after the rain.",
-      "misspellings": ["reapear", "reapper", "reapearr"]
-    },
-    {
-      "id": 127,
-      "word": "redecorate",
-      "sentence": "We will redecorate the living room.",
-      "misspellings": ["redecorrate", "redecorat", "redecroate"]
-    },
-    {
-      "id": 128,
-      "word": "reapply",
-      "sentence": "You must reapply for the position.",
-      "misspellings": ["reaply", "reaplly", "reapplyy"]
-    },
-    {
-      "id": 129,
-      "word": "repay",
-      "sentence": "I will repay the money tomorrow.",
-      "misspellings": ["repayyy", "repae", "repai"]
-    },
-    {
-      "id": 130,
-      "word": "rebuild",
-      "sentence": "Workers will rebuild the bridge.",
-      "misspellings": ["rebild", "rebuld", "rebiuld"]
-    }
-  ]
+      "week": 15,
+      "group": "Words ending in the /g/ sound spelt 'gue' and the /k/ sound spelt 'que'",
+      "dictationDate": "26.03.26",
+      "words": [
+        { "id": 131, "word": "league", "sentence": "Our team joined the local football league.", "misspellings": ["leeg", "leauge", "leegue"] },
+        { "id": 132, "word": "plague", "sentence": "The disease spread like a plague.", "misspellings": ["plaeg", "plage", "plauge"] },
+        { "id": 133, "word": "rogue", "sentence": "The rogue escaped into the forest.", "misspellings": ["roge", "rouge", "rogeue"] },
+        { "id": 134, "word": "vague", "sentence": "His answer was too vague to understand.", "misspellings": ["vaeg", "vage", "vaugue"] },
+        { "id": 135, "word": "fatigue", "sentence": "After the long walk, she felt fatigue.", "misspellings": ["fatige", "fatique", "fatugue"] },
+        { "id": 136, "word": "unique", "sentence": "Each snowflake is unique.", "misspellings": ["uniqe", "unike", "uniqu"] },
+        { "id": 137, "word": "antique", "sentence": "The shop sold an antique clock.", "misspellings": ["antiqe", "antike", "antiqu"] },
+        { "id": 138, "word": "mosque", "sentence": "The family visited the mosque.", "misspellings": ["mosk", "mosqe", "mosquee"] },
+        { "id": 139, "word": "cheque", "sentence": "She paid by cheque.", "misspellings": ["check", "chek", "cheqe"] },
+        { "id": 140, "word": "technique", "sentence": "She improved her painting technique.", "misspellings": ["techniqe", "teqnique", "technike"] }
+      ]
     }
   ]
 }
-
