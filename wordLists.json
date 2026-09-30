@@ -68,6 +68,142 @@
           "misspellings": ["orthor", "authur", "autor"]
         }
       ]
+    },
+    {
+      "week": 2,
+      "term": "Autumn 1",
+      "group": "Adding the prefix in- (meaning 'not' or 'into')",
+      "dictationDate": "",
+      "words": [
+        {
+          "id": 1,
+          "word": "inactive",
+          "sentence": "The volcano has been inactive for many years.",
+          "misspellings": ["inactiv", "innactive", "inacktive"]
+        },
+        {
+          "id": 2,
+          "word": "incorrect",
+          "sentence": "One of the answers was incorrect.",
+          "misspellings": ["incorect", "inncorrect", "incorret"]
+        },
+        {
+          "id": 3,
+          "word": "inaccurate",
+          "sentence": "The information in the old book was inaccurate.",
+          "misspellings": ["inacurate", "innaccurate", "inaccurat"]
+        },
+        {
+          "id": 4,
+          "word": "insecure",
+          "sentence": "The loose gate was insecure.",
+          "misspellings": ["insecur", "innsecure", "insecuer"]
+        },
+        {
+          "id": 5,
+          "word": "indefinite",
+          "sentence": "We had to wait for an indefinite amount of time.",
+          "misspellings": ["indefinate", "indefinit", "indefinnite"]
+        },
+        {
+          "id": 6,
+          "word": "incomplete",
+          "sentence": "My homework was incomplete because I missed a question.",
+          "misspellings": ["incomplet", "incompleat", "inncomplete"]
+        },
+        {
+          "id": 7,
+          "word": "infinite",
+          "sentence": "The number line seems to be infinite.",
+          "misspellings": ["infinet", "infinate", "innfinite"]
+        },
+        {
+          "id": 8,
+          "word": "inedible",
+          "sentence": "The burnt toast was almost inedible.",
+          "misspellings": ["inedable", "inedibel", "innedible"]
+        },
+        {
+          "id": 9,
+          "word": "inability",
+          "sentence": "His inability to swim meant he stayed in the shallow water.",
+          "misspellings": ["inabilty", "innability", "inabillity"]
+        },
+        {
+          "id": 10,
+          "word": "indecisive",
+          "sentence": "She was indecisive about which book to choose.",
+          "misspellings": ["indecisiv", "indecissive", "indesicive"]
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "term": "Autumn 1",
+      "group": "Adding the prefix im- before a root word starting with 'm' or 'p'",
+      "dictationDate": "",
+      "words": [
+        {
+          "id": 1,
+          "word": "immature",
+          "sentence": "The young bird was still immature.",
+          "misspellings": ["imature", "immatur", "immatture"]
+        },
+        {
+          "id": 2,
+          "word": "immeasurable",
+          "sentence": "The stars seemed an immeasurable distance away.",
+          "misspellings": ["imeasurable", "immeasurible", "immeasurabl"]
+        },
+        {
+          "id": 3,
+          "word": "impossible",
+          "sentence": "It seemed impossible to finish the puzzle.",
+          "misspellings": ["inpossible", "imposible", "impossable"]
+        },
+        {
+          "id": 4,
+          "word": "immortal",
+          "sentence": "The character in the story was immortal.",
+          "misspellings": ["imortal", "immortel", "immortall"]
+        },
+        {
+          "id": 5,
+          "word": "imperfect",
+          "sentence": "The drawing was imperfect but still beautiful.",
+          "misspellings": ["inperfect", "imperfekt", "imperfec"]
+        },
+        {
+          "id": 6,
+          "word": "impatient",
+          "sentence": "He became impatient while waiting for the bus.",
+          "misspellings": ["inpatient", "impatientt", "impatiant"]
+        },
+        {
+          "id": 7,
+          "word": "immovable",
+          "sentence": "The enormous rock seemed immovable.",
+          "misspellings": ["imovable", "immoveable", "immovible"]
+        },
+        {
+          "id": 8,
+          "word": "impolite",
+          "sentence": "It is impolite to interrupt someone.",
+          "misspellings": ["inpolite", "impollite", "impolit"]
+        },
+        {
+          "id": 9,
+          "word": "important",
+          "sentence": "It is important to listen carefully.",
+          "misspellings": ["inportant", "importent", "importantt"]
+        },
+        {
+          "id": 10,
+          "word": "improper",
+          "sentence": "Running in the corridor is improper behaviour.",
+          "misspellings": ["inproper", "impropor", "impropper"]
+        }
+      ]
     }
   ]
 }
